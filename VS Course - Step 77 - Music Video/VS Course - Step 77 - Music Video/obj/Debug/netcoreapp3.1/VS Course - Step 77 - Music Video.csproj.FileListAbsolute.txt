@@ -1,0 +1,37 @@
+C:\Users\Daisy\source\repos\VS Course - Step 77 - Music Video\VS Course - Step 77 - Music Video\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Daisy\source\repos\VS Course - Step 77 - Music Video\VS Course - Step 77 - Music Video\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Daisy\source\repos\VS Course - Step 77 - Music Video\VS Course - Step 77 - Music Video\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Daisy\source\repos\VS Course - Step 77 - Music Video\VS Course - Step 77 - Music Video\bin\Debug\netcoreapp3.1\VS Course - Step 77 - Music Video.exe
+C:\Users\Daisy\source\repos\VS Course - Step 77 - Music Video\VS Course - Step 77 - Music Video\bin\Debug\netcoreapp3.1\VS Course - Step 77 - Music Video.deps.json
+C:\Users\Daisy\source\repos\VS Course - Step 77 - Music Video\VS Course - Step 77 - Music Video\bin\Debug\netcoreapp3.1\VS Course - Step 77 - Music Video.runtimeconfig.json
+C:\Users\Daisy\source\repos\VS Course - Step 77 - Music Video\VS Course - Step 77 - Music Video\bin\Debug\netcoreapp3.1\VS Course - Step 77 - Music Video.runtimeconfig.dev.json
+C:\Users\Daisy\source\repos\VS Course - Step 77 - Music Video\VS Course - Step 77 - Music Video\bin\Debug\netcoreapp3.1\VS Course - Step 77 - Music Video.dll
+C:\Users\Daisy\source\repos\VS Course - Step 77 - Music Video\VS Course - Step 77 - Music Video\bin\Debug\netcoreapp3.1\VS Course - Step 77 - Music Video.pdb
+C:\Users\Daisy\source\repos\VS Course - Step 77 - Music Video\VS Course - Step 77 - Music Video\bin\Debug\netcoreapp3.1\VS Course - Step 77 - Music Video.Views.dll
+C:\Users\Daisy\source\repos\VS Course - Step 77 - Music Video\VS Course - Step 77 - Music Video\bin\Debug\netcoreapp3.1\VS Course - Step 77 - Music Video.Views.pdb
+C:\Users\Daisy\source\repos\VS Course - Step 77 - Music Video\VS Course - Step 77 - Music Video\obj\Debug\netcoreapp3.1\VS Course - Step 77 - Music Video.csprojAssemblyReference.cache
+C:\Users\Daisy\source\repos\VS Course - Step 77 - Music Video\VS Course - Step 77 - Music Video\obj\Debug\netcoreapp3.1\VS Course - Step 77 - Music Video.AssemblyInfoInputs.cache
+C:\Users\Daisy\source\repos\VS Course - Step 77 - Music Video\VS Course - Step 77 - Music Video\obj\Debug\netcoreapp3.1\VS Course - Step 77 - Music Video.AssemblyInfo.cs
+C:\Users\Daisy\source\repos\VS Course - Step 77 - Music Video\VS Course - Step 77 - Music Video\obj\Debug\netcoreapp3.1\VS Course - Step 77 - Music Video.csproj.CoreCompileInputs.cache
+C:\Users\Daisy\source\repos\VS Course - Step 77 - Music Video\VS Course - Step 77 - Music Video\obj\Debug\netcoreapp3.1\VS Course - Step 77 - Music Video.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Daisy\source\repos\VS Course - Step 77 - Music Video\VS Course - Step 77 - Music Video\obj\Debug\netcoreapp3.1\VS Course - Step 77 - Music Video.RazorAssemblyInfo.cache
+C:\Users\Daisy\source\repos\VS Course - Step 77 - Music Video\VS Course - Step 77 - Music Video\obj\Debug\netcoreapp3.1\VS Course - Step 77 - Music Video.RazorAssemblyInfo.cs
+C:\Users\Daisy\source\repos\VS Course - Step 77 - Music Video\VS Course - Step 77 - Music Video\obj\Debug\netcoreapp3.1\VS Course - Step 77 - Music Video.TagHelpers.input.cache
+C:\Users\Daisy\source\repos\VS Course - Step 77 - Music Video\VS Course - Step 77 - Music Video\obj\Debug\netcoreapp3.1\VS Course - Step 77 - Music Video.TagHelpers.output.cache
+C:\Users\Daisy\source\repos\VS Course - Step 77 - Music Video\VS Course - Step 77 - Music Video\obj\Debug\netcoreapp3.1\VS Course - Step 77 - Music Video.RazorCoreGenerate.cache
+C:\Users\Daisy\source\repos\VS Course - Step 77 - Music Video\VS Course - Step 77 - Music Video\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Daisy\source\repos\VS Course - Step 77 - Music Video\VS Course - Step 77 - Music Video\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Daisy\source\repos\VS Course - Step 77 - Music Video\VS Course - Step 77 - Music Video\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Daisy\source\repos\VS Course - Step 77 - Music Video\VS Course - Step 77 - Music Video\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Daisy\source\repos\VS Course - Step 77 - Music Video\VS Course - Step 77 - Music Video\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Daisy\source\repos\VS Course - Step 77 - Music Video\VS Course - Step 77 - Music Video\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Daisy\source\repos\VS Course - Step 77 - Music Video\VS Course - Step 77 - Music Video\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Daisy\source\repos\VS Course - Step 77 - Music Video\VS Course - Step 77 - Music Video\obj\Debug\netcoreapp3.1\VS Course - Step 77 - Music Video.RazorTargetAssemblyInfo.cache
+C:\Users\Daisy\source\repos\VS Course - Step 77 - Music Video\VS Course - Step 77 - Music Video\obj\Debug\netcoreapp3.1\VS Course - Step 77 - Music Video.RazorTargetAssemblyInfo.cs
+C:\Users\Daisy\source\repos\VS Course - Step 77 - Music Video\VS Course - Step 77 - Music Video\obj\Debug\netcoreapp3.1\VS Course - Step 77 - Music Video.Views.pdb
+C:\Users\Daisy\source\repos\VS Course - Step 77 - Music Video\VS Course - Step 77 - Music Video\obj\Debug\netcoreapp3.1\staticwebassets\VS Course - Step 77 - Music Video.StaticWebAssets.Manifest.cache
+C:\Users\Daisy\source\repos\VS Course - Step 77 - Music Video\VS Course - Step 77 - Music Video\obj\Debug\netcoreapp3.1\staticwebassets\VS Course - Step 77 - Music Video.StaticWebAssets.xml
+C:\Users\Daisy\source\repos\VS Course - Step 77 - Music Video\VS Course - Step 77 - Music Video\obj\Debug\netcoreapp3.1\VS Course - Step 77 - Music Video.dll
+C:\Users\Daisy\source\repos\VS Course - Step 77 - Music Video\VS Course - Step 77 - Music Video\obj\Debug\netcoreapp3.1\VS Course - Step 77 - Music Video.pdb
+C:\Users\Daisy\source\repos\VS Course - Step 77 - Music Video\VS Course - Step 77 - Music Video\obj\Debug\netcoreapp3.1\VS Course - Step 77 - Music Video.genruntimeconfig.cache
+C:\Users\Daisy\source\repos\VS Course - Step 77 - Music Video\VS Course - Step 77 - Music Video\obj\Debug\netcoreapp3.1\VS Course - Step 77 - Music Video.csproj.CopyComplete
