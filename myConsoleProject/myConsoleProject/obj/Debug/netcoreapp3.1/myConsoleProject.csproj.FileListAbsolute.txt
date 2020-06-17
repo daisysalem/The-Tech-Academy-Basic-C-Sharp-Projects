@@ -1,0 +1,13 @@
+C:\Users\Daisy\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\myConsoleProject\myConsoleProject\bin\Debug\netcoreapp3.1\myConsoleProject.exe
+C:\Users\Daisy\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\myConsoleProject\myConsoleProject\bin\Debug\netcoreapp3.1\myConsoleProject.deps.json
+C:\Users\Daisy\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\myConsoleProject\myConsoleProject\bin\Debug\netcoreapp3.1\myConsoleProject.runtimeconfig.json
+C:\Users\Daisy\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\myConsoleProject\myConsoleProject\bin\Debug\netcoreapp3.1\myConsoleProject.runtimeconfig.dev.json
+C:\Users\Daisy\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\myConsoleProject\myConsoleProject\bin\Debug\netcoreapp3.1\myConsoleProject.dll
+C:\Users\Daisy\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\myConsoleProject\myConsoleProject\bin\Debug\netcoreapp3.1\myConsoleProject.pdb
+C:\Users\Daisy\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\myConsoleProject\myConsoleProject\obj\Debug\netcoreapp3.1\myConsoleProject.csprojAssemblyReference.cache
+C:\Users\Daisy\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\myConsoleProject\myConsoleProject\obj\Debug\netcoreapp3.1\myConsoleProject.AssemblyInfoInputs.cache
+C:\Users\Daisy\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\myConsoleProject\myConsoleProject\obj\Debug\netcoreapp3.1\myConsoleProject.AssemblyInfo.cs
+C:\Users\Daisy\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\myConsoleProject\myConsoleProject\obj\Debug\netcoreapp3.1\myConsoleProject.csproj.CoreCompileInputs.cache
+C:\Users\Daisy\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\myConsoleProject\myConsoleProject\obj\Debug\netcoreapp3.1\myConsoleProject.dll
+C:\Users\Daisy\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\myConsoleProject\myConsoleProject\obj\Debug\netcoreapp3.1\myConsoleProject.pdb
+C:\Users\Daisy\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\myConsoleProject\myConsoleProject\obj\Debug\netcoreapp3.1\myConsoleProject.genruntimeconfig.cache
