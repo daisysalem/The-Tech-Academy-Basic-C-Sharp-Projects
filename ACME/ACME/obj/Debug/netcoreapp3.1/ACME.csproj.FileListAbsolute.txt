@@ -1,0 +1,12 @@
+C:\Users\Daisy\source\repos\ACME\ACME\obj\Debug\netcoreapp3.1\ACME.AssemblyInfoInputs.cache
+C:\Users\Daisy\source\repos\ACME\ACME\obj\Debug\netcoreapp3.1\ACME.AssemblyInfo.cs
+C:\Users\Daisy\source\repos\ACME\ACME\obj\Debug\netcoreapp3.1\ACME.csproj.CoreCompileInputs.cache
+C:\Users\Daisy\source\repos\ACME\ACME\bin\Debug\netcoreapp3.1\ACME.exe
+C:\Users\Daisy\source\repos\ACME\ACME\bin\Debug\netcoreapp3.1\ACME.deps.json
+C:\Users\Daisy\source\repos\ACME\ACME\bin\Debug\netcoreapp3.1\ACME.runtimeconfig.json
+C:\Users\Daisy\source\repos\ACME\ACME\bin\Debug\netcoreapp3.1\ACME.runtimeconfig.dev.json
+C:\Users\Daisy\source\repos\ACME\ACME\bin\Debug\netcoreapp3.1\ACME.dll
+C:\Users\Daisy\source\repos\ACME\ACME\bin\Debug\netcoreapp3.1\ACME.pdb
+C:\Users\Daisy\source\repos\ACME\ACME\obj\Debug\netcoreapp3.1\ACME.dll
+C:\Users\Daisy\source\repos\ACME\ACME\obj\Debug\netcoreapp3.1\ACME.pdb
+C:\Users\Daisy\source\repos\ACME\ACME\obj\Debug\netcoreapp3.1\ACME.genruntimeconfig.cache
