@@ -1,0 +1,13 @@
+C:\Users\Daisy\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TTA C-Sharp - Math Step 84\TTA C-Sharp - Math Step 84\bin\Debug\netcoreapp3.1\TTA C-Sharp - Math Step 84.exe
+C:\Users\Daisy\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TTA C-Sharp - Math Step 84\TTA C-Sharp - Math Step 84\bin\Debug\netcoreapp3.1\TTA C-Sharp - Math Step 84.deps.json
+C:\Users\Daisy\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TTA C-Sharp - Math Step 84\TTA C-Sharp - Math Step 84\bin\Debug\netcoreapp3.1\TTA C-Sharp - Math Step 84.runtimeconfig.json
+C:\Users\Daisy\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TTA C-Sharp - Math Step 84\TTA C-Sharp - Math Step 84\bin\Debug\netcoreapp3.1\TTA C-Sharp - Math Step 84.runtimeconfig.dev.json
+C:\Users\Daisy\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TTA C-Sharp - Math Step 84\TTA C-Sharp - Math Step 84\bin\Debug\netcoreapp3.1\TTA C-Sharp - Math Step 84.dll
+C:\Users\Daisy\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TTA C-Sharp - Math Step 84\TTA C-Sharp - Math Step 84\bin\Debug\netcoreapp3.1\TTA C-Sharp - Math Step 84.pdb
+C:\Users\Daisy\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TTA C-Sharp - Math Step 84\TTA C-Sharp - Math Step 84\obj\Debug\netcoreapp3.1\TTA C-Sharp - Math Step 84.csprojAssemblyReference.cache
+C:\Users\Daisy\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TTA C-Sharp - Math Step 84\TTA C-Sharp - Math Step 84\obj\Debug\netcoreapp3.1\TTA C-Sharp - Math Step 84.AssemblyInfoInputs.cache
+C:\Users\Daisy\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TTA C-Sharp - Math Step 84\TTA C-Sharp - Math Step 84\obj\Debug\netcoreapp3.1\TTA C-Sharp - Math Step 84.AssemblyInfo.cs
+C:\Users\Daisy\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TTA C-Sharp - Math Step 84\TTA C-Sharp - Math Step 84\obj\Debug\netcoreapp3.1\TTA C-Sharp - Math Step 84.csproj.CoreCompileInputs.cache
+C:\Users\Daisy\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TTA C-Sharp - Math Step 84\TTA C-Sharp - Math Step 84\obj\Debug\netcoreapp3.1\TTA C-Sharp - Math Step 84.dll
+C:\Users\Daisy\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TTA C-Sharp - Math Step 84\TTA C-Sharp - Math Step 84\obj\Debug\netcoreapp3.1\TTA C-Sharp - Math Step 84.pdb
+C:\Users\Daisy\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TTA C-Sharp - Math Step 84\TTA C-Sharp - Math Step 84\obj\Debug\netcoreapp3.1\TTA C-Sharp - Math Step 84.genruntimeconfig.cache

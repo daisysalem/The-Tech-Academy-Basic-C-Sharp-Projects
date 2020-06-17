@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TTA C-Sharp - Math Step 84/1.0.0": {
+        "runtime": {
+          "TTA C-Sharp - Math Step 84.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TTA C-Sharp - Math Step 84/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
