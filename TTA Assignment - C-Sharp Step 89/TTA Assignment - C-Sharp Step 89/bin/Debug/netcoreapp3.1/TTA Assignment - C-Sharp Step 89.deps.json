@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TTA Assignment - C-Sharp Step 89/1.0.0": {
+        "runtime": {
+          "TTA Assignment - C-Sharp Step 89.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TTA Assignment - C-Sharp Step 89/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
