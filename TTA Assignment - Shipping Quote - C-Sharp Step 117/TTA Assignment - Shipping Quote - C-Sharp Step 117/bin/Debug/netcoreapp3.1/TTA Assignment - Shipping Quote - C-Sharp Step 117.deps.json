@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TTA Assignment - Shipping Quote - C-Sharp Step 117/1.0.0": {
+        "runtime": {
+          "TTA Assignment - Shipping Quote - C-Sharp Step 117.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TTA Assignment - Shipping Quote - C-Sharp Step 117/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

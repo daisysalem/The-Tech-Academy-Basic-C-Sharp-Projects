@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TTA Assignment - Shipping Quote - C-Sharp Step 117", "TTA Assignment - Shipping Quote - C-Sharp Step 117\TTA Assignment - Shipping Quote - C-Sharp Step 117.csproj", "{AE2CC0B1-60F8-4280-A817-A5FB9F89C67C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE2CC0B1-60F8-4280-A817-A5FB9F89C67C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE2CC0B1-60F8-4280-A817-A5FB9F89C67C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE2CC0B1-60F8-4280-A817-A5FB9F89C67C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE2CC0B1-60F8-4280-A817-A5FB9F89C67C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {444FB34B-D7C8-4A6E-88C6-1EC494C621EF}
+	EndGlobalSection
+EndGlobal
