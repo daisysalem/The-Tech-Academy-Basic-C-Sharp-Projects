@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TTA Assigment - Car Insurance - C-Sharp Step 100/1.0.0": {
+        "runtime": {
+          "TTA Assigment - Car Insurance - C-Sharp Step 100.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TTA Assigment - Car Insurance - C-Sharp Step 100/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
