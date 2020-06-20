@@ -1,0 +1,13 @@
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - While-Do - Step 121\CS - While-Do - Step 121\bin\Debug\netcoreapp3.1\CS - While-Do - Step 121.exe
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - While-Do - Step 121\CS - While-Do - Step 121\bin\Debug\netcoreapp3.1\CS - While-Do - Step 121.deps.json
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - While-Do - Step 121\CS - While-Do - Step 121\bin\Debug\netcoreapp3.1\CS - While-Do - Step 121.runtimeconfig.json
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - While-Do - Step 121\CS - While-Do - Step 121\bin\Debug\netcoreapp3.1\CS - While-Do - Step 121.runtimeconfig.dev.json
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - While-Do - Step 121\CS - While-Do - Step 121\bin\Debug\netcoreapp3.1\CS - While-Do - Step 121.dll
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - While-Do - Step 121\CS - While-Do - Step 121\bin\Debug\netcoreapp3.1\CS - While-Do - Step 121.pdb
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - While-Do - Step 121\CS - While-Do - Step 121\obj\Debug\netcoreapp3.1\CS - While-Do - Step 121.csprojAssemblyReference.cache
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - While-Do - Step 121\CS - While-Do - Step 121\obj\Debug\netcoreapp3.1\CS - While-Do - Step 121.AssemblyInfoInputs.cache
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - While-Do - Step 121\CS - While-Do - Step 121\obj\Debug\netcoreapp3.1\CS - While-Do - Step 121.AssemblyInfo.cs
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - While-Do - Step 121\CS - While-Do - Step 121\obj\Debug\netcoreapp3.1\CS - While-Do - Step 121.csproj.CoreCompileInputs.cache
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - While-Do - Step 121\CS - While-Do - Step 121\obj\Debug\netcoreapp3.1\CS - While-Do - Step 121.dll
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - While-Do - Step 121\CS - While-Do - Step 121\obj\Debug\netcoreapp3.1\CS - While-Do - Step 121.pdb
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - While-Do - Step 121\CS - While-Do - Step 121\obj\Debug\netcoreapp3.1\CS - While-Do - Step 121.genruntimeconfig.cache
