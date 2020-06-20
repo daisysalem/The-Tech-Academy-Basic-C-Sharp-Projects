@@ -6,6 +6,15 @@ namespace CS___While_Do___Step_121
     {
         static void Main(string[] args)
         {
+
+            int i = 0;
+            while (i < 5)
+            {
+                Console.WriteLine(i);
+                i++;
+
+            }
+
             Console.WriteLine("Guess what number I'm thinking of between 1-100");
             int number = Convert.ToInt32(Console.ReadLine());
             bool isGuessed = number == 9;
