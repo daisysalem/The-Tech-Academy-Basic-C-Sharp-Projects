@@ -1,0 +1,13 @@
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS-Arrays and Lists-Step 130\CS-Arrays and Lists-Step 130\bin\Debug\netcoreapp3.1\CS-Arrays and Lists-Step 130.exe
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS-Arrays and Lists-Step 130\CS-Arrays and Lists-Step 130\bin\Debug\netcoreapp3.1\CS-Arrays and Lists-Step 130.deps.json
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS-Arrays and Lists-Step 130\CS-Arrays and Lists-Step 130\bin\Debug\netcoreapp3.1\CS-Arrays and Lists-Step 130.runtimeconfig.json
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS-Arrays and Lists-Step 130\CS-Arrays and Lists-Step 130\bin\Debug\netcoreapp3.1\CS-Arrays and Lists-Step 130.runtimeconfig.dev.json
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS-Arrays and Lists-Step 130\CS-Arrays and Lists-Step 130\bin\Debug\netcoreapp3.1\CS-Arrays and Lists-Step 130.dll
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS-Arrays and Lists-Step 130\CS-Arrays and Lists-Step 130\bin\Debug\netcoreapp3.1\CS-Arrays and Lists-Step 130.pdb
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS-Arrays and Lists-Step 130\CS-Arrays and Lists-Step 130\obj\Debug\netcoreapp3.1\CS-Arrays and Lists-Step 130.csprojAssemblyReference.cache
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS-Arrays and Lists-Step 130\CS-Arrays and Lists-Step 130\obj\Debug\netcoreapp3.1\CS-Arrays and Lists-Step 130.AssemblyInfoInputs.cache
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS-Arrays and Lists-Step 130\CS-Arrays and Lists-Step 130\obj\Debug\netcoreapp3.1\CS-Arrays and Lists-Step 130.AssemblyInfo.cs
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS-Arrays and Lists-Step 130\CS-Arrays and Lists-Step 130\obj\Debug\netcoreapp3.1\CS-Arrays and Lists-Step 130.csproj.CoreCompileInputs.cache
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS-Arrays and Lists-Step 130\CS-Arrays and Lists-Step 130\obj\Debug\netcoreapp3.1\CS-Arrays and Lists-Step 130.dll
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS-Arrays and Lists-Step 130\CS-Arrays and Lists-Step 130\obj\Debug\netcoreapp3.1\CS-Arrays and Lists-Step 130.pdb
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS-Arrays and Lists-Step 130\CS-Arrays and Lists-Step 130\obj\Debug\netcoreapp3.1\CS-Arrays and Lists-Step 130.genruntimeconfig.cache
