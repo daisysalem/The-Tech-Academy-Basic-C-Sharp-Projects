@@ -1,0 +1,13 @@
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Shipping Quote - Step 117\CS - Shipping Quote - Step 117\bin\Debug\netcoreapp3.1\CS - Shipping Quote - Step 117.exe
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Shipping Quote - Step 117\CS - Shipping Quote - Step 117\bin\Debug\netcoreapp3.1\CS - Shipping Quote - Step 117.deps.json
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Shipping Quote - Step 117\CS - Shipping Quote - Step 117\bin\Debug\netcoreapp3.1\CS - Shipping Quote - Step 117.runtimeconfig.json
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Shipping Quote - Step 117\CS - Shipping Quote - Step 117\bin\Debug\netcoreapp3.1\CS - Shipping Quote - Step 117.runtimeconfig.dev.json
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Shipping Quote - Step 117\CS - Shipping Quote - Step 117\bin\Debug\netcoreapp3.1\CS - Shipping Quote - Step 117.dll
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Shipping Quote - Step 117\CS - Shipping Quote - Step 117\bin\Debug\netcoreapp3.1\CS - Shipping Quote - Step 117.pdb
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Shipping Quote - Step 117\CS - Shipping Quote - Step 117\obj\Debug\netcoreapp3.1\CS - Shipping Quote - Step 117.csprojAssemblyReference.cache
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Shipping Quote - Step 117\CS - Shipping Quote - Step 117\obj\Debug\netcoreapp3.1\CS - Shipping Quote - Step 117.AssemblyInfoInputs.cache
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Shipping Quote - Step 117\CS - Shipping Quote - Step 117\obj\Debug\netcoreapp3.1\CS - Shipping Quote - Step 117.AssemblyInfo.cs
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Shipping Quote - Step 117\CS - Shipping Quote - Step 117\obj\Debug\netcoreapp3.1\CS - Shipping Quote - Step 117.csproj.CoreCompileInputs.cache
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Shipping Quote - Step 117\CS - Shipping Quote - Step 117\obj\Debug\netcoreapp3.1\CS - Shipping Quote - Step 117.dll
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Shipping Quote - Step 117\CS - Shipping Quote - Step 117\obj\Debug\netcoreapp3.1\CS - Shipping Quote - Step 117.pdb
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Shipping Quote - Step 117\CS - Shipping Quote - Step 117\obj\Debug\netcoreapp3.1\CS - Shipping Quote - Step 117.genruntimeconfig.cache

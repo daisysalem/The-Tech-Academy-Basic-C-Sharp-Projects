@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CS - Shipping Quote - Step 117/1.0.0": {
+        "runtime": {
+          "CS - Shipping Quote - Step 117.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CS - Shipping Quote - Step 117/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
