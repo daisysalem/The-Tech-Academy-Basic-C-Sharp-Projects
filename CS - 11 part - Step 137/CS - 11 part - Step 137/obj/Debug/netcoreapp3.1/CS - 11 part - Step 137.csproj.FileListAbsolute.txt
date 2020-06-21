@@ -1,0 +1,13 @@
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - 11 part - Step 137\CS - 11 part - Step 137\obj\Debug\netcoreapp3.1\CS - 11 part - Step 137.csprojAssemblyReference.cache
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - 11 part - Step 137\CS - 11 part - Step 137\obj\Debug\netcoreapp3.1\CS - 11 part - Step 137.AssemblyInfoInputs.cache
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - 11 part - Step 137\CS - 11 part - Step 137\obj\Debug\netcoreapp3.1\CS - 11 part - Step 137.AssemblyInfo.cs
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - 11 part - Step 137\CS - 11 part - Step 137\obj\Debug\netcoreapp3.1\CS - 11 part - Step 137.csproj.CoreCompileInputs.cache
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - 11 part - Step 137\CS - 11 part - Step 137\bin\Debug\netcoreapp3.1\CS - 11 part - Step 137.exe
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - 11 part - Step 137\CS - 11 part - Step 137\bin\Debug\netcoreapp3.1\CS - 11 part - Step 137.deps.json
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - 11 part - Step 137\CS - 11 part - Step 137\bin\Debug\netcoreapp3.1\CS - 11 part - Step 137.runtimeconfig.json
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - 11 part - Step 137\CS - 11 part - Step 137\bin\Debug\netcoreapp3.1\CS - 11 part - Step 137.runtimeconfig.dev.json
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - 11 part - Step 137\CS - 11 part - Step 137\bin\Debug\netcoreapp3.1\CS - 11 part - Step 137.dll
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - 11 part - Step 137\CS - 11 part - Step 137\bin\Debug\netcoreapp3.1\CS - 11 part - Step 137.pdb
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - 11 part - Step 137\CS - 11 part - Step 137\obj\Debug\netcoreapp3.1\CS - 11 part - Step 137.dll
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - 11 part - Step 137\CS - 11 part - Step 137\obj\Debug\netcoreapp3.1\CS - 11 part - Step 137.pdb
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - 11 part - Step 137\CS - 11 part - Step 137\obj\Debug\netcoreapp3.1\CS - 11 part - Step 137.genruntimeconfig.cache
