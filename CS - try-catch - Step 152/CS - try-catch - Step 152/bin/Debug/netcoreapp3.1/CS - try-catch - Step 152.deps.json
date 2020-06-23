@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CS - try-catch - Step 152/1.0.0": {
+        "runtime": {
+          "CS - try-catch - Step 152.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CS - try-catch - Step 152/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
