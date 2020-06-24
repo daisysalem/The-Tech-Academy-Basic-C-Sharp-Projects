@@ -1,0 +1,4 @@
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Class and Methods 2 - Step 164\CS - Class and Methods 2 - Step 164\obj\Debug\netcoreapp3.1\CS - Class and Methods 2 - Step 164.csprojAssemblyReference.cache
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Class and Methods 2 - Step 164\CS - Class and Methods 2 - Step 164\obj\Debug\netcoreapp3.1\CS - Class and Methods 2 - Step 164.AssemblyInfoInputs.cache
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Class and Methods 2 - Step 164\CS - Class and Methods 2 - Step 164\obj\Debug\netcoreapp3.1\CS - Class and Methods 2 - Step 164.AssemblyInfo.cs
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Class and Methods 2 - Step 164\CS - Class and Methods 2 - Step 164\obj\Debug\netcoreapp3.1\CS - Class and Methods 2 - Step 164.csproj.CoreCompileInputs.cache
