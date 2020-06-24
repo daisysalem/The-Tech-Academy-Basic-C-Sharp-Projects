@@ -1,0 +1,12 @@
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Class and Methods 4 - Step 166\CS - Class and Methods 4 - Step 166\bin\Debug\netcoreapp3.1\CS - Class and Methods 4 - Step 166.exe
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Class and Methods 4 - Step 166\CS - Class and Methods 4 - Step 166\bin\Debug\netcoreapp3.1\CS - Class and Methods 4 - Step 166.deps.json
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Class and Methods 4 - Step 166\CS - Class and Methods 4 - Step 166\bin\Debug\netcoreapp3.1\CS - Class and Methods 4 - Step 166.runtimeconfig.json
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Class and Methods 4 - Step 166\CS - Class and Methods 4 - Step 166\bin\Debug\netcoreapp3.1\CS - Class and Methods 4 - Step 166.runtimeconfig.dev.json
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Class and Methods 4 - Step 166\CS - Class and Methods 4 - Step 166\bin\Debug\netcoreapp3.1\CS - Class and Methods 4 - Step 166.dll
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Class and Methods 4 - Step 166\CS - Class and Methods 4 - Step 166\bin\Debug\netcoreapp3.1\CS - Class and Methods 4 - Step 166.pdb
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Class and Methods 4 - Step 166\CS - Class and Methods 4 - Step 166\obj\Debug\netcoreapp3.1\CS - Class and Methods 4 - Step 166.AssemblyInfoInputs.cache
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Class and Methods 4 - Step 166\CS - Class and Methods 4 - Step 166\obj\Debug\netcoreapp3.1\CS - Class and Methods 4 - Step 166.AssemblyInfo.cs
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Class and Methods 4 - Step 166\CS - Class and Methods 4 - Step 166\obj\Debug\netcoreapp3.1\CS - Class and Methods 4 - Step 166.csproj.CoreCompileInputs.cache
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Class and Methods 4 - Step 166\CS - Class and Methods 4 - Step 166\obj\Debug\netcoreapp3.1\CS - Class and Methods 4 - Step 166.dll
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Class and Methods 4 - Step 166\CS - Class and Methods 4 - Step 166\obj\Debug\netcoreapp3.1\CS - Class and Methods 4 - Step 166.pdb
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Class and Methods 4 - Step 166\CS - Class and Methods 4 - Step 166\obj\Debug\netcoreapp3.1\CS - Class and Methods 4 - Step 166.genruntimeconfig.cache
