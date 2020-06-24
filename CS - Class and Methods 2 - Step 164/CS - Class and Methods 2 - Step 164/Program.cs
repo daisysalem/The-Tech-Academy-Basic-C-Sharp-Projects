@@ -35,15 +35,16 @@ namespace ClassAndMethods
         static void Main(string[] args)
         {
             int num1 = 5;
-            decimal num2 = 10;
-            //string num3 = Convert.ToInt32(20);
+            decimal num2 = 23.32m;
+            string str1 = "20";
+            int num3 = Int32.Parse(str1);
 
-            //Console.WriteLine(num1Result);
-            //Console.WriteLine(num2Result);
-            //Console.WriteLine(num3Result);
-
-            MathOp FirstOperation = new MathOp();
-            Console.WriteLine(FirstOperation.MathMethod(5));
+            MathOp FirstOp = new MathOp();
+            MathOp SecondOp = new MathOp();
+            MathOp ThirdOp = new MathOp();
+            Console.WriteLine(FirstOp.MathMethod(5));
+            Console.WriteLine(SecondOp.MathMethod(5, 23.32m));
+            Console.WriteLine(ThirdOp.MathMethod(5, 23.32m, str1));
             Console.ReadLine();
 
         }
