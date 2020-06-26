@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CS - Class-Void-Overload - Step 169/1.0.0": {
+        "runtime": {
+          "CS - Class-Void-Overload - Step 169.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CS - Class-Void-Overload - Step 169/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
