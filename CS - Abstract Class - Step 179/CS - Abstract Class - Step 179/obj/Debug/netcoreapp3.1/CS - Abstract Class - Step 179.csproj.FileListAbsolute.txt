@@ -1,0 +1,13 @@
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Abstract Class - Step 179\CS - Abstract Class - Step 179\bin\Debug\netcoreapp3.1\CS - Abstract Class - Step 179.exe
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Abstract Class - Step 179\CS - Abstract Class - Step 179\bin\Debug\netcoreapp3.1\CS - Abstract Class - Step 179.deps.json
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Abstract Class - Step 179\CS - Abstract Class - Step 179\bin\Debug\netcoreapp3.1\CS - Abstract Class - Step 179.runtimeconfig.json
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Abstract Class - Step 179\CS - Abstract Class - Step 179\bin\Debug\netcoreapp3.1\CS - Abstract Class - Step 179.runtimeconfig.dev.json
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Abstract Class - Step 179\CS - Abstract Class - Step 179\bin\Debug\netcoreapp3.1\CS - Abstract Class - Step 179.dll
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Abstract Class - Step 179\CS - Abstract Class - Step 179\bin\Debug\netcoreapp3.1\CS - Abstract Class - Step 179.pdb
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Abstract Class - Step 179\CS - Abstract Class - Step 179\obj\Debug\netcoreapp3.1\CS - Abstract Class - Step 179.csprojAssemblyReference.cache
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Abstract Class - Step 179\CS - Abstract Class - Step 179\obj\Debug\netcoreapp3.1\CS - Abstract Class - Step 179.AssemblyInfoInputs.cache
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Abstract Class - Step 179\CS - Abstract Class - Step 179\obj\Debug\netcoreapp3.1\CS - Abstract Class - Step 179.AssemblyInfo.cs
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Abstract Class - Step 179\CS - Abstract Class - Step 179\obj\Debug\netcoreapp3.1\CS - Abstract Class - Step 179.csproj.CoreCompileInputs.cache
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Abstract Class - Step 179\CS - Abstract Class - Step 179\obj\Debug\netcoreapp3.1\CS - Abstract Class - Step 179.dll
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Abstract Class - Step 179\CS - Abstract Class - Step 179\obj\Debug\netcoreapp3.1\CS - Abstract Class - Step 179.pdb
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Abstract Class - Step 179\CS - Abstract Class - Step 179\obj\Debug\netcoreapp3.1\CS - Abstract Class - Step 179.genruntimeconfig.cache
