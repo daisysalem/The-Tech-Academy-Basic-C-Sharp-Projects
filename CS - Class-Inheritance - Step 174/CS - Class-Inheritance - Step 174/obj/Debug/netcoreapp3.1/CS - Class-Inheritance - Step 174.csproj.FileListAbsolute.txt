@@ -1,0 +1,13 @@
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Class-Inheritance - Step 174\CS - Class-Inheritance - Step 174\bin\Debug\netcoreapp3.1\CS - Class-Inheritance - Step 174.exe
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Class-Inheritance - Step 174\CS - Class-Inheritance - Step 174\bin\Debug\netcoreapp3.1\CS - Class-Inheritance - Step 174.deps.json
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Class-Inheritance - Step 174\CS - Class-Inheritance - Step 174\bin\Debug\netcoreapp3.1\CS - Class-Inheritance - Step 174.runtimeconfig.json
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Class-Inheritance - Step 174\CS - Class-Inheritance - Step 174\bin\Debug\netcoreapp3.1\CS - Class-Inheritance - Step 174.runtimeconfig.dev.json
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Class-Inheritance - Step 174\CS - Class-Inheritance - Step 174\bin\Debug\netcoreapp3.1\CS - Class-Inheritance - Step 174.dll
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Class-Inheritance - Step 174\CS - Class-Inheritance - Step 174\bin\Debug\netcoreapp3.1\CS - Class-Inheritance - Step 174.pdb
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Class-Inheritance - Step 174\CS - Class-Inheritance - Step 174\obj\Debug\netcoreapp3.1\CS - Class-Inheritance - Step 174.csprojAssemblyReference.cache
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Class-Inheritance - Step 174\CS - Class-Inheritance - Step 174\obj\Debug\netcoreapp3.1\CS - Class-Inheritance - Step 174.AssemblyInfoInputs.cache
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Class-Inheritance - Step 174\CS - Class-Inheritance - Step 174\obj\Debug\netcoreapp3.1\CS - Class-Inheritance - Step 174.AssemblyInfo.cs
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Class-Inheritance - Step 174\CS - Class-Inheritance - Step 174\obj\Debug\netcoreapp3.1\CS - Class-Inheritance - Step 174.csproj.CoreCompileInputs.cache
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Class-Inheritance - Step 174\CS - Class-Inheritance - Step 174\obj\Debug\netcoreapp3.1\CS - Class-Inheritance - Step 174.dll
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Class-Inheritance - Step 174\CS - Class-Inheritance - Step 174\obj\Debug\netcoreapp3.1\CS - Class-Inheritance - Step 174.pdb
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Class-Inheritance - Step 174\CS - Class-Inheritance - Step 174\obj\Debug\netcoreapp3.1\CS - Class-Inheritance - Step 174.genruntimeconfig.cache
