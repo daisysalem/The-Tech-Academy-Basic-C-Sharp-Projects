@@ -19,13 +19,8 @@ namespace CS___Abstract_Class___Step_179
         public override void SayName()
         {
             Console.WriteLine("Name: " + FirstName + " " + LastName);
-
         }
-        public void Quit(Person FirstName, Person LastName)
-        {
-            throw new NotImplementedException();
-        }
-
+        
         int n;
         public Employee()
         {

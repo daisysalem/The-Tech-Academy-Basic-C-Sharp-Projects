@@ -16,12 +16,9 @@ namespace CS___Abstract_Class___Step_179
 {
     interface IQuittable
     {
-        //public string Resign (FirstName, LastName)
-
         void Quit()
         {
             Console.WriteLine("This Employee resigned from the company");
         }
-       
     }
 }

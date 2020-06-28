@@ -32,13 +32,9 @@ namespace CS___Abstract_Class___Step_179
             Person.SayName();
             //Console.ReadLine();
 
-            //IQuittable Resign = new Employee() { FirstName = "John", LastName = "Smith" };
-            //Resign.Quit();
-            //Console.ReadLine();
-
-            //IQuittable.Resign = "John";
-            //Console.WriteLine(IQuittable.Quit(Resign());
-
+            IQuittable Resign = new Employee() { FirstName = "John", LastName = "Smith" };
+            Resign.Quit();
+            Console.ReadLine();
 
             Employee nEmpId1 = new Employee(5);
             Employee nEmpId2 = new Employee(15);
