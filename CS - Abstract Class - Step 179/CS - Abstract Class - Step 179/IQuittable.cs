@@ -16,7 +16,7 @@ namespace CS___Abstract_Class___Step_179
 {
     interface IQuittable
     {
-        //public string Resign { get; set; }
+        //public string Resign (FirstName, LastName)
 
         void Quit()
         {

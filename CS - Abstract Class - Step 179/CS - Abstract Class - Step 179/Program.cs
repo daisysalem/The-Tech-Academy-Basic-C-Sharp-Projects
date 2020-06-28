@@ -9,7 +9,13 @@
 
 5. Inside the Main() method, instantiate an Employee object with 
 firstName "Sample" and lastName "Student". Call the SayName() method on the object.
+
+STEP 187
+/*
+Overload the "==" operator so it checks if two Employee objects are equal 
+by comparing their Id property.
 */
+
 
 using System;
 using System.Collections.Generic;
@@ -24,10 +30,23 @@ namespace CS___Abstract_Class___Step_179
             Person.FirstName = new string("Sample");
             Person.LastName = new string("Student");
             Person.SayName();
-            Console.ReadLine();
+            //Console.ReadLine();
+
+            //IQuittable Resign = new Employee() { FirstName = "John", LastName = "Smith" };
+            //Resign.Quit();
+            //Console.ReadLine();
 
             //IQuittable.Resign = "John";
             //Console.WriteLine(IQuittable.Quit(Resign());
+
+
+            Employee nEmpId1 = new Employee(5);
+            Employee nEmpId2 = new Employee(15);
+
+            if (nEmpId1 == nEmpId2)   
+                Console.WriteLine("Employee Id's match");
+            else
+                Console.WriteLine("Employee Id's do not match");
 
         }
     }

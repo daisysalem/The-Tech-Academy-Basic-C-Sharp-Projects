@@ -25,5 +25,36 @@ namespace CS___Abstract_Class___Step_179
         {
             throw new NotImplementedException();
         }
+
+        int n;
+        public Employee()
+        {
+            n = 0;
+        }
+        public Employee(int EmpId1)
+        {
+            n = EmpId1;
+        }
+
+        public static bool operator ==(Employee EmpId1, Employee EmpId2)
+        {
+            if (EmpId1.n == EmpId2.n)
+                return true;
+            else
+                return false;
+        }
+
+        public static bool operator !=(Employee EmpId1, Employee EmpId2)
+        {
+            if (EmpId1.n != EmpId2.n)
+                return true;
+            else
+                return false;
+        }
+
+        public int getValue()
+        {
+            return n;
+        }
     }
 }
