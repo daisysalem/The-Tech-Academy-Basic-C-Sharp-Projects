@@ -1,0 +1,13 @@
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - enums - Step 195\CS - enums - Step 195\bin\Debug\netcoreapp3.1\CS - enums - Step 195.exe
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - enums - Step 195\CS - enums - Step 195\bin\Debug\netcoreapp3.1\CS - enums - Step 195.deps.json
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - enums - Step 195\CS - enums - Step 195\bin\Debug\netcoreapp3.1\CS - enums - Step 195.runtimeconfig.json
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - enums - Step 195\CS - enums - Step 195\bin\Debug\netcoreapp3.1\CS - enums - Step 195.runtimeconfig.dev.json
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - enums - Step 195\CS - enums - Step 195\bin\Debug\netcoreapp3.1\CS - enums - Step 195.dll
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - enums - Step 195\CS - enums - Step 195\bin\Debug\netcoreapp3.1\CS - enums - Step 195.pdb
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - enums - Step 195\CS - enums - Step 195\obj\Debug\netcoreapp3.1\CS - enums - Step 195.csprojAssemblyReference.cache
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - enums - Step 195\CS - enums - Step 195\obj\Debug\netcoreapp3.1\CS - enums - Step 195.AssemblyInfoInputs.cache
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - enums - Step 195\CS - enums - Step 195\obj\Debug\netcoreapp3.1\CS - enums - Step 195.AssemblyInfo.cs
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - enums - Step 195\CS - enums - Step 195\obj\Debug\netcoreapp3.1\CS - enums - Step 195.csproj.CoreCompileInputs.cache
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - enums - Step 195\CS - enums - Step 195\obj\Debug\netcoreapp3.1\CS - enums - Step 195.dll
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - enums - Step 195\CS - enums - Step 195\obj\Debug\netcoreapp3.1\CS - enums - Step 195.pdb
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - enums - Step 195\CS - enums - Step 195\obj\Debug\netcoreapp3.1\CS - enums - Step 195.genruntimeconfig.cache
