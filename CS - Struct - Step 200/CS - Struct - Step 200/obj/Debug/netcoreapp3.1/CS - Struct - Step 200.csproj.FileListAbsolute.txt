@@ -1,0 +1,13 @@
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Struct - Step 200\CS - Struct - Step 200\bin\Debug\netcoreapp3.1\CS - Struct - Step 200.exe
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Struct - Step 200\CS - Struct - Step 200\bin\Debug\netcoreapp3.1\CS - Struct - Step 200.deps.json
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Struct - Step 200\CS - Struct - Step 200\bin\Debug\netcoreapp3.1\CS - Struct - Step 200.runtimeconfig.json
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Struct - Step 200\CS - Struct - Step 200\bin\Debug\netcoreapp3.1\CS - Struct - Step 200.runtimeconfig.dev.json
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Struct - Step 200\CS - Struct - Step 200\bin\Debug\netcoreapp3.1\CS - Struct - Step 200.dll
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Struct - Step 200\CS - Struct - Step 200\bin\Debug\netcoreapp3.1\CS - Struct - Step 200.pdb
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Struct - Step 200\CS - Struct - Step 200\obj\Debug\netcoreapp3.1\CS - Struct - Step 200.csprojAssemblyReference.cache
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Struct - Step 200\CS - Struct - Step 200\obj\Debug\netcoreapp3.1\CS - Struct - Step 200.AssemblyInfoInputs.cache
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Struct - Step 200\CS - Struct - Step 200\obj\Debug\netcoreapp3.1\CS - Struct - Step 200.AssemblyInfo.cs
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Struct - Step 200\CS - Struct - Step 200\obj\Debug\netcoreapp3.1\CS - Struct - Step 200.csproj.CoreCompileInputs.cache
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Struct - Step 200\CS - Struct - Step 200\obj\Debug\netcoreapp3.1\CS - Struct - Step 200.dll
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Struct - Step 200\CS - Struct - Step 200\obj\Debug\netcoreapp3.1\CS - Struct - Step 200.pdb
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Struct - Step 200\CS - Struct - Step 200\obj\Debug\netcoreapp3.1\CS - Struct - Step 200.genruntimeconfig.cache

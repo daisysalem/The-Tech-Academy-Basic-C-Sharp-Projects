@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CS - Struct - Step 200/1.0.0": {
+        "runtime": {
+          "CS - Struct - Step 200.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CS - Struct - Step 200/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
