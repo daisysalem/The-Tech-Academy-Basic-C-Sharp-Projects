@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CS - Abstract Class - Step 179/1.0.0": {
+        "runtime": {
+          "CS - Abstract Class - Step 179.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CS - Abstract Class - Step 179/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
