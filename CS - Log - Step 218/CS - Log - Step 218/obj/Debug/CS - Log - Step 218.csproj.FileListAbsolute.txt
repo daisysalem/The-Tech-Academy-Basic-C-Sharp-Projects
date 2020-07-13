@@ -1,0 +1,7 @@
+C:\Users\Daisy\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Log - Step 218\CS - Log - Step 218\bin\Debug\CS - Log - Step 218.exe.config
+C:\Users\Daisy\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Log - Step 218\CS - Log - Step 218\bin\Debug\CS - Log - Step 218.exe
+C:\Users\Daisy\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Log - Step 218\CS - Log - Step 218\bin\Debug\CS - Log - Step 218.pdb
+C:\Users\Daisy\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Log - Step 218\CS - Log - Step 218\obj\Debug\CS - Log - Step 218.csprojAssemblyReference.cache
+C:\Users\Daisy\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Log - Step 218\CS - Log - Step 218\obj\Debug\CS - Log - Step 218.csproj.CoreCompileInputs.cache
+C:\Users\Daisy\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Log - Step 218\CS - Log - Step 218\obj\Debug\CS - Log - Step 218.exe
+C:\Users\Daisy\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Log - Step 218\CS - Log - Step 218\obj\Debug\CS - Log - Step 218.pdb
