@@ -21,19 +21,22 @@ namespace CS___Log___Step_218
     {
         static void Main(string[] args)
         {
+            string filePath = @"C:\Users\Daisy\Documents\Logs\Step218.txt";
             Console.WriteLine("Type in a number");
-            string answer = Console.ReadLine();
-            File.WriteAllText(@"C:\Users\Daisy\Documents\Logs\Step218.txt", answer);
-
-            using (StreamReader r = File.OpenText(@"C:\Users\Daisy\Documents\Logs\Step218.txt"))
+            string inputNum = Console.ReadLine();
+            using (StreamWriter file = new StreamWriter(filePath, true))
             {
-                File.ReadAllText(@"C:\Users\Daisy\Documents\Logs\Step218.txt");
-                Console.WriteLine(File.OpenText(@"C:\Users\Daisy\Documents\Logs\Step218.txt"));
+                file.WriteLine(inputNum);
             }
+            using (StreamReader file = new StreamReader(filePath, true))
+            {
+                string returnText = file.ReadToEnd().ToString();
+                Console.WriteLine(returnText);
+            }
+
             Console.ReadLine();
 
 
         }
     }
 }
-
