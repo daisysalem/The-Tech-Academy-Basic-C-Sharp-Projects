@@ -1,0 +1,7 @@
+C:\Users\Daisy\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Const - Step 229\CS - Const - Step 229\obj\Debug\CS - Const - Step 229.csprojAssemblyReference.cache
+C:\Users\Daisy\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Const - Step 229\CS - Const - Step 229\obj\Debug\CS - Const - Step 229.csproj.CoreCompileInputs.cache
+C:\Users\Daisy\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Const - Step 229\CS - Const - Step 229\bin\Debug\CS - Const - Step 229.exe.config
+C:\Users\Daisy\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Const - Step 229\CS - Const - Step 229\bin\Debug\CS - Const - Step 229.exe
+C:\Users\Daisy\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Const - Step 229\CS - Const - Step 229\bin\Debug\CS - Const - Step 229.pdb
+C:\Users\Daisy\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Const - Step 229\CS - Const - Step 229\obj\Debug\CS - Const - Step 229.exe
+C:\Users\Daisy\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Const - Step 229\CS - Const - Step 229\obj\Debug\CS - Const - Step 229.pdb
