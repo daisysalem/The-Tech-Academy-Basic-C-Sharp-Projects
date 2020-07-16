@@ -1,0 +1,7 @@
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Exceptions - Step 233\CS - Exceptions - Step 233\bin\Debug\CS - Exceptions - Step 233.exe.config
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Exceptions - Step 233\CS - Exceptions - Step 233\bin\Debug\CS - Exceptions - Step 233.exe
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Exceptions - Step 233\CS - Exceptions - Step 233\bin\Debug\CS - Exceptions - Step 233.pdb
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Exceptions - Step 233\CS - Exceptions - Step 233\obj\Debug\CS - Exceptions - Step 233.csprojAssemblyReference.cache
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Exceptions - Step 233\CS - Exceptions - Step 233\obj\Debug\CS - Exceptions - Step 233.csproj.CoreCompileInputs.cache
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Exceptions - Step 233\CS - Exceptions - Step 233\obj\Debug\CS - Exceptions - Step 233.exe
+C:\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CS - Exceptions - Step 233\CS - Exceptions - Step 233\obj\Debug\CS - Exceptions - Step 233.pdb
